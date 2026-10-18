@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/generate.py": { "maxDuration": 60 }
-  }
-}
